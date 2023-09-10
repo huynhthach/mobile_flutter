@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554812804292",
+    "project_id": "longfirebase-a795d",
+    "storage_bucket": "longfirebase-a795d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554812804292:android:8aca2de753a2f6193f0d91",
+        "android_client_info": {
+          "package_name": "com.example.baitap_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554812804292-7in56lrqk44113fjdo6htcvsgdd0lomj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYYEP2vUjxaRnRaYx8AeCy1JBuNVlvn50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554812804292-7in56lrqk44113fjdo6htcvsgdd0lomj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
